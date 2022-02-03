@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "fbeb6c4e-43f5-49d9-9427-82a4035eabf2",
+      "name": "Mic",
+      "email": "mic@gmail.com"
+    },
+    {
+      "id": "2269624c-e333-40c1-8650-a662b2f52640",
+      "name": "madu",
+      "email": "madu@gmail.com"
+    },
+    {
+      "id": "4b96da10-6936-416f-9887-0dd68c3e8a87",
+      "name": "Bhagya Ariyadasa",
+      "email": "bag@gmail.com"
+    },
+    {
+      "id": "d6024b94-f510-4496-a2a8-c42a188a121c",
+      "name": "Bhagya Ariyadasa",
+      "email": "bhagya7552@gmail.com"
+    },
+    {
+      "id": "1f024a56-b451-44b2-89a5-8e79a6e04bf0",
+      "name": "Bhagya Ariyadasa",
+      "email": "bag@gmail.com"
+    }
+  ]
+}
